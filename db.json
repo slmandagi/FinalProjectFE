@@ -1,0 +1,30 @@
+{
+    "posts": [
+      { "id": 1, "title": "json-server", "author": "typicode" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": [
+        { "name": "typicode" }
+    ],
+
+    "header":[
+        {
+            "title":"The Best",
+            "subTitle": "MUSIC BAND EVER.",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look"
+        },
+        {
+            "title":"The Best",
+            "subTitle": "MUSIC BAND EVER.",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look"
+        },
+
+        {
+            "title":"The Best",
+            "subTitle": "MUSIC BAND EVER.",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look"
+        }
+    ]
+  }
